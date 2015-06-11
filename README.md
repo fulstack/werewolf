@@ -2,10 +2,10 @@
 A simulation of the were wolf game
 
 ## Usage
-### Show one game play
+Show one game play
 ```
 Game.new(<num_of_wolfs>, <num_of_villagers>).play
 ```
-### Simulate the game several time and show the probability of villagers winnning
+Simulate the game several time and show the probability of villagers winnning
 ```
 Game.new(<num_of_wolfs>, <num_of_villagers>).simulate(<num_of_simulations>)
